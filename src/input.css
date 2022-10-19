@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+  .mainSec{
+    background-image: url(..//img/banner-bg.png );
+    background-position:center;
+    background-size: cover;
+
+
+  }
+
+  .work{
+    background-image: url(..//img//work-process-bg.png);
+    background-size: cover;
+  }
+
+
+  .priceCard{
+    background-color: #f2f2fe;
+  }
+
+  .ratingSec{
+    background-image: url(../img/fun-facts-bg.png);
+    background-size: cover;
+  }
+
+
+
+  footer{
+    background-image: url(../img/fun-facts-bg.png);
+
+  }
+
+  footer li{
+    background-color: white;
+    margin-left: 20px;
+    padding: 6px 11px;
+
+    border-radius: 100%;
+  
+
+  }
+  
+
+
+  
